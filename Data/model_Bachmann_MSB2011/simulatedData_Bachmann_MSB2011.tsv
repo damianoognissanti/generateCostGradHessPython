@@ -1,0 +1,9 @@
+observableId	preequilibrationConditionId	simulationConditionId	simulation	time	observableParameters	noiseParameters
+observable_pSTAT5B_rel		model1_data2	0.23682747597001	0	offset_pSTAT5_conc	sd_pSTAT5_rel
+observable_pSTAT5B_rel		model1_data2	0.23682747597001	0	offset_pSTAT5_conc	sd_pSTAT5_rel
+observable_pSTAT5B_rel		model1_data2	0.23682747597001	0	offset_pSTAT5_conc	sd_pSTAT5_rel
+observable_pSTAT5B_rel		model1_data2	0.23682747597001	0	offset_pSTAT5_conc	sd_pSTAT5_rel
+observable_pSTAT5B_rel		model1_data2	73.6565184438034	10	offset_pSTAT5_conc	sd_pSTAT5_rel
+observable_pSTAT5B_rel		model1_data2	73.6565184438034	10	offset_pSTAT5_conc	sd_pSTAT5_rel
+observable_pSTAT5B_rel		model1_data2	73.6565184438034	10	offset_pSTAT5_conc	sd_pSTAT5_rel
+observable_pSTAT5B_rel		model1_data2	73.6565184438034	10	offset_pSTAT5_conc	sd_pSTAT5_rel

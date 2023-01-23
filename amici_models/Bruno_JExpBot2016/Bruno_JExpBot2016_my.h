@@ -1,0 +1,6 @@
+#define mob10 my[0]
+#define mobcar my[1]
+#define mobcry my[2]
+#define mobio my[3]
+#define moohb10 my[4]
+#define mozea my[5]

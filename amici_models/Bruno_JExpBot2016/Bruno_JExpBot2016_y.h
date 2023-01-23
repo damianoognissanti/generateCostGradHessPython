@@ -1,0 +1,6 @@
+#define ob10 y[0]
+#define obcar y[1]
+#define obcry y[2]
+#define obio y[3]
+#define oohb10 y[4]
+#define ozea y[5]

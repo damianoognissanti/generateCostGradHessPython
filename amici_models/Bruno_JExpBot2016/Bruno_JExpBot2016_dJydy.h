@@ -1,0 +1,6 @@
+#define dJy0_dob10 dJydy[0]
+#define dJy0_dobcar_1 dJydy[1]
+#define dJy0_dobcry_2 dJydy[2]
+#define dJy0_dobio_3 dJydy[3]
+#define dJy0_doohb10_4 dJydy[4]
+#define dJy0_dozea_5 dJydy[5]

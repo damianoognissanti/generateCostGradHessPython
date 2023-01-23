@@ -1,0 +1,7 @@
+#define bcar x_rdata[0]
+#define bcry x_rdata[1]
+#define b10 x_rdata[2]
+#define bio x_rdata[3]
+#define ohb10 x_rdata[4]
+#define ohbio x_rdata[5]
+#define zea x_rdata[6]

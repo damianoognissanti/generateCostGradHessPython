@@ -1,0 +1,6 @@
+#define dflux_v1_ReactionName_dbcar dwdx[0]
+#define dflux_v3_ReactionName_dbcry dwdx[1]
+#define dflux_v4_ReactionName_dbcry dwdx[2]
+#define dflux_v2_ReactionName_db10 dwdx[3]
+#define dflux_v5_ReactionName_dohb10 dwdx[4]
+#define dflux_v6_ReactionName_dzea dwdx[5]

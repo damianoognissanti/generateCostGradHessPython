@@ -1,0 +1,6 @@
+#define flux_v1_ReactionName w[0]
+#define flux_v2_ReactionName w[1]
+#define flux_v3_ReactionName w[2]
+#define flux_v4_ReactionName w[3]
+#define flux_v5_ReactionName w[4]
+#define flux_v6_ReactionName w[5]

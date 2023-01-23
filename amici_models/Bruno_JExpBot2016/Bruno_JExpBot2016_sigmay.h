@@ -1,0 +1,6 @@
+#define sigma_ob10 sigmay[0]
+#define sigma_obcar sigmay[1]
+#define sigma_obcry sigmay[2]
+#define sigma_obio sigmay[3]
+#define sigma_oohb10 sigmay[4]
+#define sigma_ozea sigmay[5]
